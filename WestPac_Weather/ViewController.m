@@ -88,7 +88,6 @@
 
 }
 
-dddd
 #pragma mark - CLLocationManagerDelegate
 
 - (void)locationManager:(CLLocationManager *)manager didFailWithError:(NSError *)error
